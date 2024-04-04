@@ -3,4 +3,9 @@
     "symbol": "SPHYNX",
     "description": "The Sphynx cat gazes at you with eyes that seem to hold the secrets of the meme universe. Its expression is both wise and mischievous, promising meme magic beyond your wildest dreams.",
     "image": "https://coinrace.online/token/image-256x256.png"
+    "extensions": {
+    "website": "",
+    "twitter": "https://twitter.com/spyhnxonsol",
+    "telegram": "https://t.me/SPHYNXONSOL"
+  }
   }
